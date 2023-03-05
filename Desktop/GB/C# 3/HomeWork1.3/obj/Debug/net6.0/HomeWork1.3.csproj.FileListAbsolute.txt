@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\GB\C# 3\HomeWork1.3\obj\Debug\net6.0\HomeWork1.3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GB\C# 3\HomeWork1.3\obj\Debug\net6.0\HomeWork1.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\GB\C# 3\HomeWork1.3\obj\Debug\net6.0\HomeWork1.3.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\GB\C# 3\HomeWork1.3\obj\Debug\net6.0\HomeWork1.3.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\GB\C# 3\HomeWork1.3\obj\Debug\net6.0\HomeWork1.3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GB\C# 3\HomeWork1.3\bin\Debug\net6.0\HomeWork1.3.exe
+C:\Users\Lenovo\Desktop\GB\C# 3\HomeWork1.3\bin\Debug\net6.0\HomeWork1.3.deps.json
+C:\Users\Lenovo\Desktop\GB\C# 3\HomeWork1.3\bin\Debug\net6.0\HomeWork1.3.runtimeconfig.json
+C:\Users\Lenovo\Desktop\GB\C# 3\HomeWork1.3\bin\Debug\net6.0\HomeWork1.3.dll
+C:\Users\Lenovo\Desktop\GB\C# 3\HomeWork1.3\bin\Debug\net6.0\HomeWork1.3.pdb
+C:\Users\Lenovo\Desktop\GB\C# 3\HomeWork1.3\obj\Debug\net6.0\HomeWork1.3.dll
+C:\Users\Lenovo\Desktop\GB\C# 3\HomeWork1.3\obj\Debug\net6.0\refint\HomeWork1.3.dll
+C:\Users\Lenovo\Desktop\GB\C# 3\HomeWork1.3\obj\Debug\net6.0\HomeWork1.3.pdb
+C:\Users\Lenovo\Desktop\GB\C# 3\HomeWork1.3\obj\Debug\net6.0\HomeWork1.3.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\GB\C# 3\HomeWork1.3\obj\Debug\net6.0\ref\HomeWork1.3.dll
