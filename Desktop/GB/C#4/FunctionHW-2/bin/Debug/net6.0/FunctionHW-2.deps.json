@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FunctionHW-2/1.0.0": {
+        "runtime": {
+          "FunctionHW-2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FunctionHW-2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
