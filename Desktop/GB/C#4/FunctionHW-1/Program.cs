@@ -16,13 +16,11 @@ int[] NewArray (int size, int min, int max)
     return array;
 }
 
-int evenNumber=0;
 int countFind =0;
 for (int i = 0; i < resArray.Length; i++)
 {
     if (resArray[i]%2 == 0)
     {
-        evenNumber = resArray[i];
         countFind ++ ;
     }
 }
