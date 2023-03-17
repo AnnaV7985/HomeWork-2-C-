@@ -13,17 +13,17 @@ Console.Write("Введите значение b2: ");
 double b2 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите значение k2: ");
 double k2 = Convert.ToInt32(Console.ReadLine());
+// Второй вариант решения:
+// double pointX = 0;
+// double pointY = 0; 
+// double x = pointX;
+// pointY = k1 * x + b1;
+// pointY = k2 * x + b2;
+// pointX = (b2-b1)/(k1-k2);
+// pointY = k1*((b2-b1)/(k1-k2))+b1;
 
-double pointX = 0;
-double pointY = 0; 
-double x = pointX;
-pointY = k1 * x + b1;
-pointY = k2 * x + b2;
-pointX = (b2-b1)/(k1-k2);
-pointY = k1*((b2-b1)/(k1-k2))+b1;
-
- //double pointX = (b2-b1)/(k1-k2);
- //double pointY = k1*((b2-b1)/(k1-k2))+b1;
+ double pointX = (b2-b1)/(k1-k2);
+ double pointY = k1*((b2-b1)/(k1-k2))+b1;
 
 
 Console.WriteLine ($"Точка пересечения двух прямых: ({pointX};{pointY})");
